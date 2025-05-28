@@ -13,8 +13,8 @@ To write a Python program to read a list and convert it into a tuple.
 
 ## PROGRAM
 ```python
-# Reg.No- 212222220044
-# Name- SHRUTHI S
+# Reg.No- 212222220027
+# Name- MONIKA RV
 
 a=eval(input())
 print("Tuple={}".format(tuple(a)))
