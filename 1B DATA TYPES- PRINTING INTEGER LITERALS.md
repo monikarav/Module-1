@@ -1,29 +1,28 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
+# Experiment No: 2- Data Types – Convert a List into a Tuple.
 
 ## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
+To write a Python program to read a list and convert it into a tuple.
 
 ## ALGORITHM  
 1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
-4. Terminate the program.
+2. Read input using input() — expects a Python expression (like a list or string).
+3. Evaluate the input using eval() — converts the string input into a Python object.
+4. Convert the result into a tuple using tuple().
+5. Print the result in the format Tuple=(...). 
+6. Terminate the program.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No- 212222220044
+# Name- SHRUTHI S
 
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
-
+a=eval(input())
+print("Tuple={}".format(tuple(a)))
 ```
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/b79ea964-fbd0-4b40-9356-6af99d66d1cf)
+
 ## RESULT
+
+Thus the conversion of List into a Tuple is implemented successfully.
