@@ -1,26 +1,30 @@
-# Experiment No: 1c-Varibles and Expressions, Operators - Adding Two Complex Numbers
+# Experiment No: 1 Python Basics- Add Two Complex Numbers
 
-## AIM
-To write a Python program for adding two complex numbers, and get the user input using the `eval()` function.
+## AIM  
+To create a Python program to print the to Add two complex  numbers by getting the inputs using eval().
 
-## ALGORITHM
-1. Begin the program.
-2. Use the `eval()` function to get two complex numbers as input from the user.
-3. Print the complex numbers entered by the user.
-4. Perform the addition of the two complex numbers using the `+` operator.
-5. Print the sum of the two complex numbers.
+## ALGORITHM  
+1. Begin the program.  
+2. Read the first input and store it in variable a.
+3. Read the second input and store it in variable b.
+4. Calculate the sum of a and b, store it in sum.
+5. Print the values of a, b, and sum.
 6. Terminate the program.
 
 ## PROGRAM
 ```python
-# Reg.No-
-#Name-
-#Write your code here
-
+# Reg.No- 212222220027
+# Name- monika RV
+a=eval(input())
+b=eval(input())
+sum=a+b
+print("A is",a)
+print("B is",b)
+print("Sum is",sum)
 ```
-
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/0c744bcd-687e-4a54-8c63-8f3ec1ee8cfc)
 
 ## RESULT
-Thus the python program for  adding two complex numbers has been implemented and executed successfully.
+Thus the Python program to print the to Add two complex  numbers by getting the inputs using eval() is created successfully.
