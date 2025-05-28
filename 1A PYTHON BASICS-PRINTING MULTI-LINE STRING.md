@@ -13,8 +13,8 @@ To create a Python program to print the to Add two complex  numbers by getting t
 
 ## PROGRAM
 ```python
-# Reg.No- 212222220044
-# Name- SHRUTHI S
+# Reg.No- 212222220027
+# Name- MONIKA RV
 a=eval(input())
 b=eval(input())
 sum=a+b
